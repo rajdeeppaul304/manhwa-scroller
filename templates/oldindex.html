@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selenium Scraper</title>
+    <style>
+        #md-images {
+            display: flex;               /* Use flexbox for layout */
+            justify-content: center;
+
+            flex-wrap: wrap;            /* Allow wrapping if necessary */
+            margin: 0;                  /* Remove default margin */
+            padding: 0;                 /* Remove default padding */
+        }
+
+        #md-images img {
+            margin: 0;                  /* Remove margin around images */
+            padding: 0;                 /* Remove padding around images */
+            display: block;             /* Ensure images don't have space below */
+            width: auto;                /* Auto width to maintain aspect ratio */
+            height: auto;               /* Auto height to maintain aspect ratio */
+        }
+
+        .outer-md-images{
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <form method="POST">
+        <input type="text" name="url" placeholder="Enter URL" required>
+        <button type="submit">Scrape</button>
+    </form>
+    <div>
+        {{ html_content|safe }}
+    </div>
+
+
+    <div class="outer-md-images">
+        <div id="md-images"></div>
+
+    </div>
+
+    <script>
+        // Render the md_images as a JSON object
+        const mdImages = {{ md_images|tojson }};
+        
+        // Display the images
+        const mdImagesDiv = document.getElementById('md-images');
+        if (mdImages.length > 0) {
+            mdImages.forEach(image => {
+                const imgElement = document.createElement('img');
+                imgElement.src = `http://meo.comick.pictures/${image.b2key}` ;  // Assuming 'src' is the key for image URLs
+                imgElement.alt = image.alt || '';  // Assuming 'alt' is an optional key
+                mdImagesDiv.appendChild(imgElement);
+            });
+        } else {
+            mdImagesDiv.innerHTML = 'No images found.';
+        }
+    </script>
+</body>
+</html>
+
+

@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selenium Scraper</title>
+    <style>
+        #md-images {
+            display: block;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin: 0;
+            padding: 0;
+        }
+        #md-images img {
+            margin: 0;
+            padding: 0;
+            display: block;
+            width: auto;
+            height: auto;
+        }
+        .outer-md-images {
+            display: flex;
+            justify-content: center;
+        }
+        .start-button {
+            margin-top: 20px;
+            display: block;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+        .formholder {
+            position: fixed;
+        }
+        body {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+</head>
+<body>
+    <div class="formholder">
+        <button class="test-button" id="testScreenshotBtn">Test Save Screenshot</button>
+
+        <form method="POST">
+            <input type="text" name="url" placeholder="Enter URL" required>
+            <button type="submit">Scrape</button>
+        </form>
+        <div>
+            {{ html_content|safe }}
+        </div>
+        <button class="start-button" id="startBtn">Start Reading</button>
+
+        <input type="number" id="readingSpeed" placeholder="Enter characters per minute" />
+        <button onclick="updateSpeed()">Update Speed</button>
+    </div>
+
+
+
+    <div class="outer-md-images">
+        <div id="md-images"></div>
+    </div>
+
+    <script>
+        async function updateSpeed() {
+            const speed = document.getElementById('readingSpeed').value;
+            const response = await fetch('/update_speed', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ characters_per_minute: speed })
+            });
+
+            if (response.ok) {
+                alert('Reading speed updated successfully!');
+            } else {
+                alert('Failed to update reading speed.');
+            }
+        }
+    </script>
+
+    <script>
+        const mdImages = {{ md_images|tojson }};
+        const mdImagesDiv = document.getElementById('md-images');
+
+        // Display the images
+        if (mdImages.length > 0) {
+            for (let count = 0; count < mdImages.length && count < mdImages.length; count++) {
+                const image = mdImages[count];
+                const imgElement = document.createElement('img');
+                imgElement.src = `/images/${image.b2key}`;
+                imgElement.alt = image.alt || '';
+                mdImagesDiv.appendChild(imgElement);
+            }
+        } else {
+            mdImagesDiv.innerHTML = 'No images found.';
+        }
+
+        // Function to capture screenshot and send to backend
+// Function to capture screenshot and send to backend
+async function captureAndSendScreenshot() {
+    const elementToCapture = document.getElementById('md-images');
+    const width = elementToCapture.clientWidth;
+    const height = window.innerHeight;
+    let y =  window.scrollY;
+
+
+
+    try {
+        // Use the current scroll position to capture the visible area
+        const canvas = await html2canvas(elementToCapture, {
+            x: 0,
+        y: y, // Changed from window.scrollY to rect.top
+        width: width,
+        height: height
+            });
+
+        const blob = await new Promise((resolve) => canvas.toBlob(resolve, 'image/png'));
+
+        const formData = new FormData();
+        formData.append('image', blob, 'screenshot.png');
+
+        const response = await fetch('/save-screenshot', {
+            method: 'POST',
+            body: formData
+        });
+
+        if (!response.ok) {
+            throw new Error('Failed to save screenshot.');
+        }
+
+        const data = await response.json();
+        return data.time; // Assuming server returns time in milliseconds
+    } catch (error) {
+        console.error('Error capturing screenshot:', error);
+        return null; // Return null on error
+    }
+}
+document.getElementById('testScreenshotBtn').addEventListener('click', async () => {
+            await captureAndSendScreenshot();
+        });
+
+
+// Start button event listener
+document.getElementById('startBtn').addEventListener('click', async () => {
+    let continueScrolling = true;
+    let scrollDistance = 0;
+
+    while (continueScrolling) {
+        console.log("hehe");
+        
+        // Capture the screenshot and get the time from the server
+        const time = await captureAndSendScreenshot();
+        console.log(time);
+
+        if (time) {
+            // Wait for the server's response time
+            await new Promise(resolve => setTimeout(resolve, time)); 
+
+            // Scroll down by a certain distance after waiting
+            scrollDistance += window.innerHeight;
+            window.scrollTo(0, scrollDistance);
+        } else {
+            continueScrolling = false; // Stop if there was an error
+            console.log("failu");
+        }
+
+        // Check if we reached the bottom of the page
+        if ((window.innerHeight + scrollDistance) >= document.body.scrollHeight) {
+            continueScrolling = false;
+        }
+    }
+});
+
+    </script>
+</body>
+</html>

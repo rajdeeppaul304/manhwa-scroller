@@ -1,0 +1,1656 @@
+{
+    "https://comick.io/comic/04-the-greatest-estate-developer/dfPQ8SJS-chapter-1-en": {
+        "md_images": [
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-001.png",
+                "s": 45007,
+                "b2key": "0001-001-LwindjSK13k5H.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-002.png",
+                "s": 91426,
+                "b2key": "0001-002-SEcH-X1F2f_S8.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-003.png",
+                "s": 69549,
+                "b2key": "0001-003-NFaf4bfS7qkSx.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-004.png",
+                "s": 89673,
+                "b2key": "0001-004-_9Wx1_O27w_xR.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-005.png",
+                "s": 47885,
+                "b2key": "0001-005-YLcS6uKzgsi_b.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-006.png",
+                "s": 80074,
+                "b2key": "0001-006-Pa6ckFQu8iNOc.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-007.png",
+                "s": 77687,
+                "b2key": "0001-007-MxaFu6hIZdxor.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-008.png",
+                "s": 88932,
+                "b2key": "0001-008-Q_e1S-Z4zHR-9.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-009.png",
+                "s": 43876,
+                "b2key": "0001-009-F60C9arLTSCkz.png",
+                "optimized": 37110
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-010.png",
+                "s": 76363,
+                "b2key": "0001-010-TlpGdpKXCz0aF.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-011.png",
+                "s": 75013,
+                "b2key": "0001-011-nHOPgTM8MGyhn.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-012.png",
+                "s": 88993,
+                "b2key": "0001-012-WbkdPUv5pij0d.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-013.png",
+                "s": 74850,
+                "b2key": "0001-013-d3PM-lD0xj9Nx.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-014.png",
+                "s": 119978,
+                "b2key": "0001-014--Wuk8dorn9QGi.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-015.png",
+                "s": 81675,
+                "b2key": "0001-015-atWZSoaBz-_t7.png",
+                "optimized": null
+            },
+            {
+                "h": 72,
+                "w": 800,
+                "name": "0001-016.png",
+                "s": 1627,
+                "b2key": "0001-016-duQckrqCWxLEz.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-017.png",
+                "s": 65076,
+                "b2key": "0001-017-JkoBEaZKITGhA.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-018.png",
+                "s": 112684,
+                "b2key": "0001-018-4cx6Y5Er1Cmdi.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-019.png",
+                "s": 79396,
+                "b2key": "0001-019-XcqE6WF5zz6a7.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-020.png",
+                "s": 86943,
+                "b2key": "0001-020-R_sTCPCfA1ERy.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-021.png",
+                "s": 160248,
+                "b2key": "0001-021-t5pp-QgptdgSl.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-022.png",
+                "s": 48618,
+                "b2key": "0001-022-t33PgcLEu-5IP.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-023.png",
+                "s": 78443,
+                "b2key": "0001-023-XbBD6AqC_1j7l.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-024.png",
+                "s": 71452,
+                "b2key": "0001-024-GXQxrlPEk9VO6.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-025.png",
+                "s": 73449,
+                "b2key": "0001-025-g0b82BlADYUDQ.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-026.png",
+                "s": 53247,
+                "b2key": "0001-026-hDvtIbltBo_ob.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-027.png",
+                "s": 63717,
+                "b2key": "0001-027-O3t7wVaeC9nOX.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-028.png",
+                "s": 80400,
+                "b2key": "0001-028-oauxfR1K3SruO.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-029.png",
+                "s": 36897,
+                "b2key": "0001-029-8n2T1wYxV6WIe.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-030.png",
+                "s": 36447,
+                "b2key": "0001-030-X8gqe-Ja-ELx0.png",
+                "optimized": 30398
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-031.png",
+                "s": 45081,
+                "b2key": "0001-031-aPZyGVfwIrujB.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-032.png",
+                "s": 40334,
+                "b2key": "0001-032-bMtkcQywlhJ4C.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-033.png",
+                "s": 52813,
+                "b2key": "0001-033-g2-oPPSgnttYF.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-034.png",
+                "s": 42252,
+                "b2key": "0001-034-4mfS57WALzrGD.png",
+                "optimized": null
+            },
+            {
+                "h": 974,
+                "w": 800,
+                "name": "0001-035.png",
+                "s": 49803,
+                "b2key": "0001-035--huL1wD4YwgVL.png",
+                "optimized": null
+            },
+            {
+                "h": 600,
+                "w": 800,
+                "name": "0001-036.png",
+                "s": 23188,
+                "b2key": "0001-036-Vie8RAetqZUOt.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-037.png",
+                "s": 71731,
+                "b2key": "0001-037-PWHH6xHho7I9e.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-038.png",
+                "s": 44699,
+                "b2key": "0001-038-5QYwwWoMx2h46.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-039.png",
+                "s": 93257,
+                "b2key": "0001-039-BCwNSssMLHXy7.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-040.png",
+                "s": 70191,
+                "b2key": "0001-040-IkRkovT7GK_P9.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-041.png",
+                "s": 58666,
+                "b2key": "0001-041-0dbCNy19Rk5DV.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-042.png",
+                "s": 60258,
+                "b2key": "0001-042-0e3y9dd0PSgK-.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-043.png",
+                "s": 84350,
+                "b2key": "0001-043-aaJNoYysBXoMj.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-044.png",
+                "s": 66185,
+                "b2key": "0001-044-0oFS00DK6dQ7E.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-045.png",
+                "s": 62754,
+                "b2key": "0001-045-0hQI94Gye4rcN.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-046.png",
+                "s": 61752,
+                "b2key": "0001-046-sme-hQvBCoBF3.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-047.png",
+                "s": 43449,
+                "b2key": "0001-047-P42K54btZgvDE.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-048.png",
+                "s": 90295,
+                "b2key": "0001-048-AzdrSGkseAyq1.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-049.png",
+                "s": 59165,
+                "b2key": "0001-049-b1jwV1XM3x9vt.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-050.png",
+                "s": 79825,
+                "b2key": "0001-050-OdH1l29f0Xi2B.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-051.png",
+                "s": 63015,
+                "b2key": "0001-051-OTc9thmpnxLZT.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-052.png",
+                "s": 51789,
+                "b2key": "0001-052-EZQcM0x9f2bmN.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-053.png",
+                "s": 65521,
+                "b2key": "0001-053-PWD9eS1hob7_8.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-054.png",
+                "s": 54887,
+                "b2key": "0001-054-M-oXaUOYQ6XuW.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-055.png",
+                "s": 45315,
+                "b2key": "0001-055-sJjrD4vLBXcpF.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-056.png",
+                "s": 38253,
+                "b2key": "0001-056-G3yikeoMNeUdh.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-057.png",
+                "s": 65933,
+                "b2key": "0001-057-w6XmVOTqN2-Qc.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-058.png",
+                "s": 57295,
+                "b2key": "0001-058-LbxqQCVcSThid.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-059.png",
+                "s": 82541,
+                "b2key": "0001-059-PGGW8wgAVIirx.png",
+                "optimized": null
+            },
+            {
+                "h": 348,
+                "w": 800,
+                "name": "0001-060.png",
+                "s": 28957,
+                "b2key": "0001-060-ujLGe-CG4UMCm.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-061.png",
+                "s": 43316,
+                "b2key": "0001-061-Vm2GVT71jzvXI.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-062.png",
+                "s": 90056,
+                "b2key": "0001-062-6edDVGmTVBVsM.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-063.png",
+                "s": 87790,
+                "b2key": "0001-063-h8TgNn-KNfiaI.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-064.png",
+                "s": 76030,
+                "b2key": "0001-064-M4KbU-X9jggPV.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-065.png",
+                "s": 68746,
+                "b2key": "0001-065-Lg_x5EPXBplqf.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-066.png",
+                "s": 64303,
+                "b2key": "0001-066-1oMeV6G-8W0v2.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-067.png",
+                "s": 58506,
+                "b2key": "0001-067-44cysn5svs0Ck.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-068.png",
+                "s": 66391,
+                "b2key": "0001-068-FXR4EG52yUeUn.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-069.png",
+                "s": 53720,
+                "b2key": "0001-069-Etvyl7CZf7bSE.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-070.png",
+                "s": 91129,
+                "b2key": "0001-070-buuHeg-K0H77-.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-071.png",
+                "s": 37210,
+                "b2key": "0001-071-4sb7NkhzzmIjp.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-072.png",
+                "s": 85111,
+                "b2key": "0001-072-hlmF5jBBid_CI.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-073.png",
+                "s": 69059,
+                "b2key": "0001-073-ugwLJZ8aqfLBj.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-074.png",
+                "s": 66073,
+                "b2key": "0001-074-oSZJH7BnuP1UX.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-075.png",
+                "s": 83670,
+                "b2key": "0001-075-c2CkLoWgNz-SN.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-076.png",
+                "s": 53439,
+                "b2key": "0001-076-tMuq0KS8kfFV8.png",
+                "optimized": 43602
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-077.png",
+                "s": 96616,
+                "b2key": "0001-077-STWFWsgB9SMeA.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-078.png",
+                "s": 95031,
+                "b2key": "0001-078-qPtWN3rc0FzYS.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-079.png",
+                "s": 74751,
+                "b2key": "0001-079-EaGPD7AQJpBcm.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-080.png",
+                "s": 92770,
+                "b2key": "0001-080-PL4nOFUjdnk99.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-081.png",
+                "s": 59991,
+                "b2key": "0001-081-AV8_vIqksKtK2.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-082.png",
+                "s": 48617,
+                "b2key": "0001-082-EdflRpjDroHLo.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-083.png",
+                "s": 56893,
+                "b2key": "0001-083-9QptxjMr7aueI.png",
+                "optimized": null
+            },
+            {
+                "h": 512,
+                "w": 800,
+                "name": "0001-084.png",
+                "s": 32483,
+                "b2key": "0001-084-Botxda_ck4pB3.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-085.png",
+                "s": 47875,
+                "b2key": "0001-085-zpkxm6gxaqL1Z.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-086.png",
+                "s": 45221,
+                "b2key": "0001-086-PGsh_M4o3Qzwx.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-087.png",
+                "s": 52208,
+                "b2key": "0001-087-i-L-p_z9vC-jk.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-088.png",
+                "s": 54071,
+                "b2key": "0001-088-WvxgrepnTN2co.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-089.png",
+                "s": 42250,
+                "b2key": "0001-089-TnQ1J3EbHq_l1.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-090.png",
+                "s": 112411,
+                "b2key": "0001-090-Jm4_20yklDCdG.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-091.png",
+                "s": 61503,
+                "b2key": "0001-091-XLVb6ejc4JVpT.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-092.png",
+                "s": 116954,
+                "b2key": "0001-092-boUzzHa59PAsK.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-093.png",
+                "s": 73732,
+                "b2key": "0001-093-BnflIrmDMwnF3.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-094.png",
+                "s": 74762,
+                "b2key": "0001-094-VeB45HiZZmPt5.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-095.png",
+                "s": 87968,
+                "b2key": "0001-095-YkB-6rusUcimr.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-096.png",
+                "s": 92069,
+                "b2key": "0001-096-9EcFchFI2FD9D.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-097.png",
+                "s": 62580,
+                "b2key": "0001-097-zx6MHyJuBxyDG.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-098.png",
+                "s": 63981,
+                "b2key": "0001-098-RIsASGpcvdGm3.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-099.png",
+                "s": 69357,
+                "b2key": "0001-099-nEEO4p60R2oaE.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-100.png",
+                "s": 56023,
+                "b2key": "0001-100-s1J-0LwX_pHGQ.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-101.png",
+                "s": 135732,
+                "b2key": "0001-101-8oUjAcZjTpqRa.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-102.png",
+                "s": 85301,
+                "b2key": "0001-102-gH0W7FVRIFRmC.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-103.png",
+                "s": 76042,
+                "b2key": "0001-103-f9cklACqMv6KC.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-104.png",
+                "s": 87609,
+                "b2key": "0001-104-YgnKJnzpw066Q.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-105.png",
+                "s": 77187,
+                "b2key": "0001-105-47XkT9NtO2ylp.png",
+                "optimized": null
+            },
+            {
+                "h": 388,
+                "w": 800,
+                "name": "0001-106.png",
+                "s": 10763,
+                "b2key": "0001-106-NetSKh49gKR-I.png",
+                "optimized": 7788
+            },
+            {
+                "h": 741,
+                "w": 800,
+                "name": "0001-107.png",
+                "s": 62857,
+                "b2key": "0001-107-n3zMoKpDGeBeA.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-108.png",
+                "s": 46891,
+                "b2key": "0001-108-v4sK0EZxusdq0.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-109.png",
+                "s": 99278,
+                "b2key": "0001-109-q_dQc5x3sB9sS.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-110.png",
+                "s": 54845,
+                "b2key": "0001-110-FIr1eqmEimiaD.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-111.png",
+                "s": 49847,
+                "b2key": "0001-111-mwmYBW4RpRzhW.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-112.png",
+                "s": 87934,
+                "b2key": "0001-112-j3UEmcVRV8uhW.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-113.png",
+                "s": 48813,
+                "b2key": "0001-113-R2WwKRphJmNV6.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-114.png",
+                "s": 38080,
+                "b2key": "0001-114-A8gjYYptm5wC9.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-115.png",
+                "s": 107443,
+                "b2key": "0001-115-2j2U_fw0SZs5D.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-116.png",
+                "s": 55224,
+                "b2key": "0001-116-2oheSaV7HWsZ5.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-117.png",
+                "s": 83371,
+                "b2key": "0001-117-JJDZ16u9hiX_j.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-118.png",
+                "s": 62963,
+                "b2key": "0001-118-eN6Pjq0OdaLFm.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-119.png",
+                "s": 34665,
+                "b2key": "0001-119-woL87RySMEZM2.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-120.png",
+                "s": 57160,
+                "b2key": "0001-120-EhqX-BUiQ_Ori.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-121.png",
+                "s": 55791,
+                "b2key": "0001-121-5tH8UBLg5zmje.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-122.png",
+                "s": 44247,
+                "b2key": "0001-122-75HjXCqtFeW-P.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-123.png",
+                "s": 48295,
+                "b2key": "0001-123-hzElha3R7pEM2.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-124.png",
+                "s": 48077,
+                "b2key": "0001-124-t-6C0NcnkEdcE.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-125.png",
+                "s": 61801,
+                "b2key": "0001-125-gS2cC7idnHRbz.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-126.png",
+                "s": 51584,
+                "b2key": "0001-126-5EMBrMb1UGzoW.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-127.png",
+                "s": 70581,
+                "b2key": "0001-127-gH4YGK8ZxjjLb.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-128.png",
+                "s": 57722,
+                "b2key": "0001-128-zJeftMwWvQxZp.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-129.png",
+                "s": 70896,
+                "b2key": "0001-129-g72eqxfxXazG7.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-130.png",
+                "s": 66568,
+                "b2key": "0001-130-1vyN8ZLCliShc.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-131.png",
+                "s": 54217,
+                "b2key": "0001-131-F93m9vxt_Wr04.png",
+                "optimized": null
+            },
+            {
+                "h": 459,
+                "w": 800,
+                "name": "0001-132.png",
+                "s": 25402,
+                "b2key": "0001-132-LQP0DujzGkxPn.png",
+                "optimized": 21442
+            },
+            {
+                "h": 900,
+                "w": 800,
+                "name": "0001-133.png",
+                "s": 66381,
+                "b2key": "0001-133-fHnhAnZN-pnEN.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-134.png",
+                "s": 67104,
+                "b2key": "0001-134-pldaCt9Sac_AH.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-135.png",
+                "s": 73450,
+                "b2key": "0001-135-W9mpiqRkQc_w2.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-136.png",
+                "s": 50751,
+                "b2key": "0001-136-2VLp99r3V06Tg.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-137.png",
+                "s": 65480,
+                "b2key": "0001-137-QvNIIv6q0G2vN.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-138.png",
+                "s": 70699,
+                "b2key": "0001-138-32EDnre7J0tyq.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-139.png",
+                "s": 54614,
+                "b2key": "0001-139-DEhEPxXWRj7pY.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-140.png",
+                "s": 91830,
+                "b2key": "0001-140-Nn8nZxPj9Dhub.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-141.png",
+                "s": 67288,
+                "b2key": "0001-141-wi1A_DUs2q-Nc.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-142.png",
+                "s": 52635,
+                "b2key": "0001-142-lIPgYLA3TNbS5.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-143.png",
+                "s": 60053,
+                "b2key": "0001-143-iCoU30sKqXbxz.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-144.png",
+                "s": 58718,
+                "b2key": "0001-144-urVz_DmR_MctC.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-145.png",
+                "s": 45712,
+                "b2key": "0001-145-7fJZqcOpZLvGh.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-146.png",
+                "s": 84908,
+                "b2key": "0001-146-9gqbYHI7HMjs7.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-147.png",
+                "s": 64223,
+                "b2key": "0001-147-EYw3LQWb9C2AK.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-148.png",
+                "s": 62133,
+                "b2key": "0001-148-Hi2ZrzVAtyRVw.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-149.png",
+                "s": 44571,
+                "b2key": "0001-149-KfONS_tBU0F3d.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-150.png",
+                "s": 73281,
+                "b2key": "0001-150-5TknIlQS4D4fd.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-151.png",
+                "s": 35322,
+                "b2key": "0001-151-JgmlHV_8eVC_a.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-152.png",
+                "s": 69973,
+                "b2key": "0001-152-Ec0VPIF8925XL.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-153.png",
+                "s": 75287,
+                "b2key": "0001-153-PJlZQDYXUbYDN.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-154.png",
+                "s": 89627,
+                "b2key": "0001-154-ZSPy_7WhAGFO2.png",
+                "optimized": null
+            },
+            {
+                "h": 812,
+                "w": 800,
+                "name": "0001-155.png",
+                "s": 73020,
+                "b2key": "0001-155-JKktwdQNscpaZ.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-156.png",
+                "s": 43472,
+                "b2key": "0001-156-mpAtwnfjw6XvN.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-157.png",
+                "s": 40758,
+                "b2key": "0001-157-KfYgLUzdsUHsO.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-158.png",
+                "s": 49074,
+                "b2key": "0001-158-nQXFQ7P2M0Bl2.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-159.png",
+                "s": 28769,
+                "b2key": "0001-159--ct3gr5eHmAXf.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-160.png",
+                "s": 94418,
+                "b2key": "0001-160-XuRepRodfG1bp.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-161.png",
+                "s": 88216,
+                "b2key": "0001-161-YPx91PJ53vz97.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-162.png",
+                "s": 70125,
+                "b2key": "0001-162-lD9sW8gpgEda8.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-163.png",
+                "s": 86862,
+                "b2key": "0001-163-jLWAEy2E5CC-u.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-164.png",
+                "s": 45679,
+                "b2key": "0001-164-wjfhmKiaJV-qA.png",
+                "optimized": 38251
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-165.png",
+                "s": 103262,
+                "b2key": "0001-165-fYGJ2_2rIQRLg.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-166.png",
+                "s": 69786,
+                "b2key": "0001-166-wNU0cF91iQgFA.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-167.png",
+                "s": 82370,
+                "b2key": "0001-167-Hg56liFBxZ5tf.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-168.png",
+                "s": 60691,
+                "b2key": "0001-168-ajHn9vDwhXYNJ.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-169.png",
+                "s": 51771,
+                "b2key": "0001-169-pRp5vzeBWsn8e.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-170.png",
+                "s": 56359,
+                "b2key": "0001-170-svRX4jDegs8dw.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-171.png",
+                "s": 52814,
+                "b2key": "0001-171-L7aJdi_9FYGX2.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-172.png",
+                "s": 23495,
+                "b2key": "0001-172-fTNLVFNtd72Yg.png",
+                "optimized": 16256
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-173.png",
+                "s": 37049,
+                "b2key": "0001-173-pCVRraZBm4zCj.png",
+                "optimized": 30372
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-174.png",
+                "s": 69063,
+                "b2key": "0001-174-wrthny19uA_Et.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-175.png",
+                "s": 56410,
+                "b2key": "0001-175-lE2HD_KuwOugw.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-176.png",
+                "s": 74375,
+                "b2key": "0001-176-rfSMzP9QWQttU.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-177.png",
+                "s": 45322,
+                "b2key": "0001-177-RaNfvxzJ-Ex22.png",
+                "optimized": null
+            },
+            {
+                "h": 29,
+                "w": 800,
+                "name": "0001-178.png",
+                "s": 1027,
+                "b2key": "0001-178-6tDxx7oNM5T4K.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-179.png",
+                "s": 69196,
+                "b2key": "0001-179-CXYGJzvuVcNYY.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-180.png",
+                "s": 75015,
+                "b2key": "0001-180-iynMfKvne8yQY.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-181.png",
+                "s": 34056,
+                "b2key": "0001-181-Fg31ksF-zMoT2.png",
+                "optimized": 27996
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-182.png",
+                "s": 65555,
+                "b2key": "0001-182-X9DOjwYFsxrFJ.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-183.png",
+                "s": 98635,
+                "b2key": "0001-183-S_HFU0qeYX_iZ.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-184.png",
+                "s": 67757,
+                "b2key": "0001-184-Ncuvix2hVM3Er.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-185.png",
+                "s": 101350,
+                "b2key": "0001-185-zLqonW9CkFbWt.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-186.png",
+                "s": 48730,
+                "b2key": "0001-186-gJs9f6BSknpM6.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-187.png",
+                "s": 33829,
+                "b2key": "0001-187-XxBbHnpW4NkfS.png",
+                "optimized": 27838
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-188.png",
+                "s": 78985,
+                "b2key": "0001-188-chYcFTjQybT-L.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-189.png",
+                "s": 55312,
+                "b2key": "0001-189-7279Z76aHO5X6.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-190.png",
+                "s": 72840,
+                "b2key": "0001-190-aPnE2YMU_kV7d.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-191.png",
+                "s": 63661,
+                "b2key": "0001-191-RQRReeKhk4po9.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-192.png",
+                "s": 105150,
+                "b2key": "0001-192-oPjNG2vUju4kA.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-193.png",
+                "s": 85930,
+                "b2key": "0001-193-WXYF4sC-XrhTo.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-194.png",
+                "s": 70293,
+                "b2key": "0001-194-J9WiBnJZ2vPbg.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-195.png",
+                "s": 94334,
+                "b2key": "0001-195-RNIvCtiEya4ys.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-196.png",
+                "s": 57730,
+                "b2key": "0001-196-S5WnMX-nO4zNo.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-197.png",
+                "s": 77995,
+                "b2key": "0001-197-10Idm6D8-tYkQ.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-198.png",
+                "s": 104358,
+                "b2key": "0001-198-a54zqlzITwjR7.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-199.png",
+                "s": 85303,
+                "b2key": "0001-199-GPYLg5sjc5t4D.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-200.png",
+                "s": 59697,
+                "b2key": "0001-200-Jyz7UPvkKYtC5.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-201.png",
+                "s": 59402,
+                "b2key": "0001-201-ag2vPvWuOTv6V.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-202.png",
+                "s": 62735,
+                "b2key": "0001-202-xkC8WKcZ6nCFv.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-203.png",
+                "s": 53058,
+                "b2key": "0001-203-WgyNdCBhwJCPM.png",
+                "optimized": null
+            },
+            {
+                "h": 1000,
+                "w": 800,
+                "name": "0001-204.png",
+                "s": 68768,
+                "b2key": "0001-204-3Y-DCSUE-tmyL.png",
+                "optimized": null
+            },
+            {
+                "h": 315,
+                "w": 800,
+                "name": "0001-205.png",
+                "s": 12719,
+                "b2key": "0001-205-JgLYfLubMEVNX.png",
+                "optimized": 9839
+            }
+        ],
+        "next_chapter": {
+            "chap": "2",
+            "vol": null,
+            "title": null,
+            "hid": "qWVPk",
+            "lang": "en",
+            "id": 2148896,
+            "href": "/comic/04-the-greatest-estate-developer/qWVPk-chapter-2-en"
+        },
+        "prev_chapter": null
+    }
+}
